@@ -1,6 +1,6 @@
 # Privacy Policy
 
-Marcel Bochtler built the Tally Counter app as an Ad Supported app. This SERVICE is provided by Marcel Bochtler at no cost and is intended for use as is.
+Marcel Bochtler built the Tally Counter app as an Ad Supported app. This SERVICE is intended for use as is.
 
 This page is used to inform visitors regarding my policies with the collection, use, and disclosure of Personal Information if anyone decided to use my Service.
 
