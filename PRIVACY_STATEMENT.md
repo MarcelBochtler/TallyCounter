@@ -72,4 +72,4 @@ This policy is effective as of 2021-10-05.
 
 ## Contact Us
 
-If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact me at [privacy@bochtler.io](mailto:privacy@bochtler.io).
+If you have any questions or suggestions about my Privacy Policy, do not hesitate to contact me at https://mailhide.io/e/RCG1LqUv.
