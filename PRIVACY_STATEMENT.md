@@ -1,3 +1,13 @@
+# Impressum
+
+Marcel Bochtler
+Paulusstraße 12
+70197 Stuttgart
+
+# Contact
+
+E-Mail: https://mailhide.io/e/RCG1LqUv
+
 # Privacy Policy
 
 Marcel Bochtler built the Tally Counter app as an Ad Supported app. This SERVICE is intended for use as is.
