@@ -1,8 +1,8 @@
 # Impressum
 
-Marcel Bochtler
-Paulusstraße 12
-70197 Stuttgart
+Marcel Bochtler  
+Paulusstraße 12  
+70197 Stuttgart  
 
 # Contact
 
