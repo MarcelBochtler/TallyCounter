@@ -18,7 +18,7 @@ Generated files in `_site/` stay out of Git.
 ## Publish with GitHub Actions
 
 `.github/workflows/pages.yml` builds the site on pull requests and pushes to
-`master`. Only pushes to `master` and manual runs on `master` deploy to
+`main`. Only pushes to `main` and manual runs on `main` deploy to
 [GitHub Pages](https://marcelbochtler.github.io/TallyCounter/). The workflow
 uploads only `_site/`; it never commits generated HTML back to the repository.
 
@@ -26,8 +26,8 @@ uploads only `_site/`; it never commits generated HTML back to the repository.
 
 1. In [Settings → Pages](https://github.com/MarcelBochtler/TallyCounter/settings/pages),
    change **Build and deployment → Source** to **GitHub Actions**.
-2. Push these commits to `master`. If they already exist on GitHub, open
-   **Actions → Build and deploy privacy policy → Run workflow** and select `master`.
+2. Push these commits to `main`. If they already exist on GitHub, open
+   **Actions → Build and deploy privacy policy → Run workflow** and select `main`.
 3. Check that the workflow's build and deployment jobs succeed.
 
 The public URL stays the same. No personal access token or repository secret is
